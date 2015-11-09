@@ -146,7 +146,7 @@ static NSString *identifier = @"HomeWorkDetailViewController";
 //    attdenceInfo.font = [UIFont systemFontOfSize:15];
 //    [self.scroller addSubview:attdenceInfo];
     
-    [self.scroller setContentSize:CGSizeMake(SCREEN_WIDTH, CGRectGetMaxY(self.imageCollectionView.frame)+20)];
+    [self.scroller setContentSize:CGSizeMake(SCREEN_WIDTH,self.imageArray.count>0?CGRectGetMaxY(self.imageCollectionView.frame)+20:CGRectGetMaxY(contentBgView.frame)+20)];
     
 }
 
