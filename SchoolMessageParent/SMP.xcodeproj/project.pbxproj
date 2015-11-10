@@ -4914,7 +4914,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CODE_SIGN_IDENTITY = "iPhone Developer: Gang Sun (XH65VD59PF)";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Gang Sun (XH65VD59PF)";
 				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
@@ -4934,7 +4934,7 @@
 				);
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = SMP;
-				PROVISIONING_PROFILE = "db4290cb-f32b-47a7-aee3-83f7d1233236";
+				PROVISIONING_PROFILE = "87b7c4e7-d70d-4bf0-875b-3a07fbb32f60";
 			};
 			name = Debug;
 		};
@@ -4962,7 +4962,7 @@
 				);
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = SMP;
-				PROVISIONING_PROFILE = "190e092f-aea4-4f00-8cc3-bfd6aab8096a";
+				PROVISIONING_PROFILE = "e13d3e65-fcf8-4cf1-b534-da0308e4dda9";
 			};
 			name = Release;
 		};

@@ -1,0 +1,32 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "2F0543CAD6C0AEB540DF057B418CFF4CC0EC479C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "49376546-87c7-11e2-8836-d79d5d01e904++3316" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "2F0543CAD6C0AEB540DF057B418CFF4CC0EC479C" : 0,
+    "49376546-87c7-11e2-8836-d79d5d01e904++3316" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "7AD29F5C-F996-4C15-8DEF-4FD277C6EEA0",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "2F0543CAD6C0AEB540DF057B418CFF4CC0EC479C" : "Parent\/",
+    "49376546-87c7-11e2-8836-d79d5d01e904++3316" : "Parent\/SchoolMessageParent\/SMP\/Common\/library\/SDWebImage\/ActivityView\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "SMP",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "SchoolMessageParent\/SMP.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/qingmu213\/Parent.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2F0543CAD6C0AEB540DF057B418CFF4CC0EC479C"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/192.168.1.11\/svn\/travelpartner",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "49376546-87c7-11e2-8836-d79d5d01e904++3316"
+    }
+  ]
+}

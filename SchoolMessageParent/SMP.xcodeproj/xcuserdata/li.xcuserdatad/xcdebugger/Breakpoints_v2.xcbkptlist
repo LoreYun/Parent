@@ -425,8 +425,8 @@
                   symbolName = "-[QueryResultController ClassChooseOnDisMiss:]"
                   moduleName = "SMP"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/li/Documents/aOfferwork/SchoolMessageParent/SMP/Query/QueryResultController.m"
-                  timestampString = "466937078.008048"
+                  urlString = "file:///Users/li/GitHub/Parent/SchoolMessageParent/SMP/Query/QueryResultController.m"
+                  timestampString = "468839853.838208"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "236"
@@ -440,8 +440,8 @@
                   symbolName = "__46-[QueryResultController ClassChooseOnDisMiss:]_block_invoke"
                   moduleName = "SMP"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/li/Documents/aOfferwork/SchoolMessageParent/SMP/Query/QueryResultController.m"
-                  timestampString = "466937078.008179"
+                  urlString = "file:///Users/li/GitHub/Parent/SchoolMessageParent/SMP/Query/QueryResultController.m"
+                  timestampString = "468839853.838426"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "236"
@@ -505,46 +505,14 @@
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "SMP/Album/AlbumDetailViewController.m"
-            timestampString = "466950453.391942"
+            filePath = "SMP/Query/QueryResultController.m"
+            timestampString = "468839853.631736"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "149"
-            endingLineNumber = "149"
-            landmarkName = "-getPhotos:"
+            startingLineNumber = "231"
+            endingLineNumber = "231"
+            landmarkName = "-ClassChooseOnDisMiss:"
             landmarkType = "5">
-            <Locations>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "-[AlbumDetailViewController getPhotos:]"
-                  moduleName = "SMP"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/li/Documents/aOfferwork/SchoolMessageParent/SMP/Album/AlbumDetailViewController.m"
-                  timestampString = "466937078.010716"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "148"
-                  endingLineNumber = "148"
-                  offsetFromSymbolStart = "62">
-               </Location>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "__39-[AlbumDetailViewController getPhotos:]_block_invoke"
-                  moduleName = "SMP"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/li/Documents/aOfferwork/SchoolMessageParent/SMP/Album/AlbumDetailViewController.m"
-                  timestampString = "466937078.010852"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "148"
-                  endingLineNumber = "148"
-                  offsetFromSymbolStart = "32">
-               </Location>
-            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>

@@ -208,7 +208,7 @@
     NSString *studentId = [[AccountManager sharedInstance].LoginInfos getStudentId];
     
     NSString *start = self.Year6Ago?[self getStatTime]:self.startBtn.titleLabel.text;
-    NSDictionary *dic = @{@"1":classId,@"2":studentId,@"3":@"0",@"4":start,@"5":self.endBtn.titleLabel.text,@"6":@"1000",@"7":@"1"};
+    NSDictionary *dic = @{@"1":classId,@"2":studentId,@"3":[self.selectedDic objectForKey:@"SubjectId"],@"4":start,@"5":self.endBtn.titleLabel.text,@"6":@"10000",@"7":@"1"};
     [[ObjectManager sharedInstance] requestDataOnPost:dic ByFlag:@"21201" callback:^(BOOL succeed, NSDictionary *data) {
         [self hideHud];
         [self getResult:succeed Data:data];
